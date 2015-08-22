@@ -7,7 +7,7 @@ The programming assignment 2 is to write a funcion to cache the inverse of a mat
 makeCacheMatrix:
 This function is a list which primarily constitng of the following 4 operations to store the inverse of the matrix:
 
-set the value of the matrix
+set the value of the matrix                                                                                         
 get the value of the matrix
 set the value of the inverse
 get the value of the inverse
